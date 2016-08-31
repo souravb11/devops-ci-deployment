@@ -1,0 +1,7 @@
+TC_ID,TD_ID,TBE,FromCity,ToCity,TravelDate,ReturnDate,Class,Adults,Children,Infants,Fare
+TC_SMOKE_WEB_1,TD_1,Y,Doha,Riyadh,21-Apr-2015,30-Apr-2015,E,1,1,1,F
+TC_SMOKE_WEB_1,TD_2,Y,Dubai,Mumbai,21-Apr-2015,30-Apr-2015,E,2,1,1,F
+TC_SMOKE_WEB_1,TD_3,Y,Riyadh,Delhi,21-Apr-2015,30-Apr-2015,E,2,1,2,F
+TC_SMOKE_WEB_2,TD_1,Y,Doha,Chennai,21-Apr-2015,30-Apr-2015,E,1,1,1,F
+TC_SMOKE_WEB_2,TD_2,Y,Dubai,Mumbai,21-Apr-2015,30-Apr-2015,E,2,1,1,F
+TC_SMOKE_WEB_2,TD_3,Y,Riyadh,Delhi,21-Apr-2015,30-Apr-2015,E,2,1,2,F

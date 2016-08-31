@@ -1,0 +1,4 @@
+TC ID,Description,RunMode,Iteration
+TC_SMOKE_WEB_1,Drop down box functionality,Y,N
+TC_SMOKE_WEB_2,Phone Number in Home page,Y,N
+TC_SMOKE_WEB_3,Comparing the Images,Y,N
