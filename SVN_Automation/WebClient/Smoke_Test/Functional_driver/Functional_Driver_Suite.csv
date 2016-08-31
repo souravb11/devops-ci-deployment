@@ -1,0 +1,5 @@
+TC ID,Description,RunMode,Iteration
+TC_SMOKE_WEB_1,Search the POLARIS site,Y,N
+TC_SMOKE_WEB_2,Mouse Hover Functionality in the Header,N,N
+TC_SMOKE_WEB_3,Selecting from drop down box,N,N
+TC_SMOKE_WEB_4,Comparing the Images,N,N

@@ -1,0 +1,2 @@
+javac -cp ".;..\Software\Jars\selenium-java-2.40.0.jar;..\Software\Jars\jsoup-1.7.3.jar;..\Software\Jars\opencsv-2.3.jar;..\Software\Jars\selenium-server-standalone-2.44.0.jar;..\Software\Jars\selenium-server-standalone-2.39.0.jar" *.java
+java -cp ".;..\Software\Jars\selenium-java-2.40.0.jar;..\Software\Jars\jsoup-1.7.3.jar;..\Software\Jars\opencsv-2.3.jar;..\Software\Jars\selenium-server-standalone-2.44.0.jar;..\Software\Jars\selenium-server-standalone-2.39.0.jar" Driver webclient smoke chrome
