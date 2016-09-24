@@ -5,8 +5,8 @@
 <h3>Message : ${message}</h3>
 <h3>Counter : ${counter}</h3>	
 <div class="header">
-<img alt="Polaris Logo" src="polaris.jpeg">
-<a onclick="window.open('http://www.polarisft.com','polarisft')" href="#">PolarisFT</a>
+<img alt="Image missing" src="">
+<a onclick="window.open('http://www.rolindroy.com','polarisft')" href="#">RolindRoy</a>
 </div>
 </body>
 

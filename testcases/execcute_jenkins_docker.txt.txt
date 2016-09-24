@@ -1,4 +1,0 @@
-echo hello Docker Team
-#sleep 25
-sudo /home/ubuntu/dockercounterwebapp/jenkins_docker.sh
-#sleep 25
